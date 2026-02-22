@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgxdzZ5cnlybjJ0eDdqb2xqdTJrbzZ2bmVpaGZveG9uazk2M2MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+  <img height="150" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgxdzZ5cnlybjJ0eDdqb2xqdTJrbzZ2bmVpaGZveG9uazk2M2MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlib2U0eTl5MDB1cGZuaWg3ZHFzcmx0emc2bHNkd3phZWlzOWxmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cf8Z7XMlx6gLhH5OkK/giphy.gif)"  />
 </div>
 
 ###
@@ -76,14 +76,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥 Mis Estadísticas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_DE_GITHUB_AQUI&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
