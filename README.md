@@ -33,12 +33,28 @@
 ###
 
 <p align="left">
-  Soy un desarrollador de México, actualmente estudiante de Ingeniería en TI e Innovación Digital. Me apasiona el desarrollo de software y crear soluciones digitales enfocadas en una excelente experiencia de usuario.<br><br>
-  - 🔭 Actualmente participando en movilidad académica en la <b>Universidad Politécnica de Querétaro</b>.<br>
-  - 💻 Tengo experiencia desarrollando sistemas completos (Frontend y Backend) usando tecnologías como <b>PHP, JavaScript, Tailwind y MySQL</b>.<br>
-  - 📚 Estudiante autodidacta, actualmente aprendiendo <b>Python, C++ y Hacking Ético</b>.<br>
-  - ⚡ En mi tiempo libre: Me encanta explorar nuevas tecnologías de IA Generativa, armar servidores en Linux y seguir aprendiendo.
+  Soy un desarrollador de México, estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la <b>Universidad Politécnica de Victoria</b>, y actualmente cursando un cuatrimestre de movilidad académica en la <b>Universidad Politécnica de Querétaro</b>.<br><br>
+  - 💻 <b>Experiencia:</b> He desarrollado soluciones reales como un Sistema de Gestión Hospitalaria, un Sistema de Gestión de Activos Fijos y Auditorías, y un Sistema de Gestión de Productos y Pedidos.<br>
+  - 📚 <b>Formación continua:</b> Soy un estudiante autodidacta. He completado cursos en <b>Udemy</b> (SQL, Desarrollo Web, IA Generativa + Prompt Engineering, Linux y Git/GitHub) y en la <b>Universidad Autónoma de Tamaulipas</b> (Introducción al Hacking Ético).<br>
+  - ⚡ <b>En mi tiempo libre:</b> Me apasiona seguir desarrollando mi conocimiento en plataformas de cursos, escuchar música, hacer ejercicio y, sobre todo, ser una persona responsable y disciplinada con mis objetivos.
 </p>
+
+###
+
+<h3 align="left">🚀 Mis Proyectos Destacados</h3>
+
+###
+
+<div align="left">
+  <h4>🏢 Sistema de Gestión de Activos Fijos y Auditorías</h4>
+  <p>Sistema integral para la identificación y seguimiento de activos mediante geolocalización y códigos QR. Responsable del desarrollo del <b>Frontend</b> utilizando <b>HTML5 y Tailwind CSS</b>.</p>
+  
+  <h4>🏥 Sistema de Gestión Hospitalaria</h4>
+  <p>Sistema web para la gestión de datos clínicos. <b>Backend</b> desarrollado con <b>PHP y JavaScript</b> conectado a <b>MySQL</b>. <b>Frontend</b> construido con <b>HTML5 y Tailwind CSS</b>. Aplicación desplegada en un servidor de <b>DigitalOcean</b>.</p>
+  
+  <h4>🛍️ Sistema de Gestión de Productos y Pedidos</h4>
+  <p>Plataforma de compra en línea. Participación en el diseño de UI con <b>Figma</b> y desarrollo <b>Frontend</b> con <b>HTML5, Bootstrap y JavaScript</b> (implementación de login, carga de productos y carrito de compras).</p>
+</div>
 
 ###
 
@@ -75,5 +91,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
 </div>
-
-
